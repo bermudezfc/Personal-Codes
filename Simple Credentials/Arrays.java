@@ -4,9 +4,9 @@ public class Arrays {
     public static void main(String[] args) throws Exception {
 
         //Arrays for the email, usernames, and passwords
-        String emails[] = {"fortunebermudez1@gmail.com", "angelobermudez@gmail.com", "gabbybermudez@gmail.com", "rgcbrmdz@gmail.com", "rowenabermudez@gmail.com"};
+        String emails[] = {"fortunebermudez50@gmail.com", "angelobermudez@gmail.com", "gabbybermudez@gmail.com", "rgcbrmdz@gmail.com", "rowenabermudez@gmail.com"};
         String usernames[] = {"tommydon69", "angelow", "brownie", "chikalogs", "whites"};
-        String passwords[] = {"tomtom22", "iloveaira", "ilovedogs", "matakawako", "sugatanako"};
+        String passwords[] = {"iloveshabs", "iloveaira", "ilovedogs", "matakawako", "sugatanako"};
 
         // Displaying the current saved informations for each user
 

@@ -1,0 +1,5 @@
+adminUser adminPass Admin
+studentUser studentPass Student
+Testmode pass Student
+rapi russel Student 
+tristan cura Admin

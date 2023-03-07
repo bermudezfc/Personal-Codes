@@ -1,0 +1,13 @@
+CourseCode CourseTitle CourseUnits
+CPGRL Programming 3
+TCW Contemporary World 3.0
+MMW math 1.0
+PE12 Physical Ed 2.0
+CPGRL Prog 3
+STS Science 3.0
+CHASOPI Hardware 1
+cpt  
+MMW MAth 3
+CPGRL Prog 3
+dsda  
+da  
